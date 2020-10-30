@@ -23,9 +23,9 @@ CART_SESSION_ID = 'cart'
 SECRET_KEY = '0^2x@#peh_-=gd5%+b%+q%oz-prw4rle6tu^xclxzash^afshc'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ['https://shopping-suven.herokuapp.com/']
+ALLOWED_HOSTS = ['shopping-suven.herokuapp.com']
 
 
 # Application definition
