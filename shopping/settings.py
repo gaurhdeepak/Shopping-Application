@@ -25,7 +25,7 @@ SECRET_KEY = '0^2x@#peh_-=gd5%+b%+q%oz-prw4rle6tu^xclxzash^afshc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://shopping-suven.herokuapp.com/','localhost']
+ALLOWED_HOSTS = ['https://shopping-suven.herokuapp.com/']
 
 
 # Application definition
